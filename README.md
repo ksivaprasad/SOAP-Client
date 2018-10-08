@@ -12,7 +12,7 @@ Steps to config wsdl
 4. Press Finish
 
 
-# Run the main class as java application
+Run the main class as java application
 
-# You can find the Server code in the following repository
+ You can find the Server code in the following repository
   https://github.com/ksivaprasad/SOAP-Service.git
