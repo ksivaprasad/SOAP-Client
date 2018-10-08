@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/soapservice/bean/Email.java=UTF-8
+encoding//src/com/soapservice/bean/EmailStatus.java=UTF-8
+encoding//src/com/soapservice/service/EmailServiceImpl.java=UTF-8
+encoding//src/com/soapservice/service/EmailServiceImplService.java=UTF-8
+encoding//src/com/soapservice/service/EmailServiceImplServiceLocator.java=UTF-8
+encoding//src/com/soapservice/service/EmailServiceImplSoapBindingStub.java=UTF-8
